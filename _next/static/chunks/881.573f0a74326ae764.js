@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(e){e.exports=JSON.parse('{"collection":"https://digital.lib.utk.edu/assemble/collection/collections/tdh","devCollection":"https://digital.lib.utk.edu/assemble/collection/collections/tdh","featured":[],"metadata":["Subject","Place","Format","Date"]}')}}]);
