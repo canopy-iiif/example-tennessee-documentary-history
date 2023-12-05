@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-iiif.github.io/canopy-tennessee-documentary-history
+Host: https://canopy-iiif.github.io/example-tennessee-documentary-history
 
 # Sitemaps
-Sitemap: https://canopy-iiif.github.io/canopy-tennessee-documentary-history/sitemap.xml
+Sitemap: https://canopy-iiif.github.io/example-tennessee-documentary-history/sitemap.xml
